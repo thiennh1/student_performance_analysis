@@ -19,6 +19,7 @@ The dataset simulates a High School Learning Management System (LMS), containing
 * **Dimension Tables:** `DimStudent`, `DimTeacher`, `DimSubject`, `DimAssessment`, `DimCalendar`.
 <img width="1699" height="480" alt="image" src="https://github.com/user-attachments/assets/0f0ecbbf-4a3e-47f5-8e65-586cf1021eca" />
 
+
 <img width="742" height="689" alt="image" src="https://github.com/user-attachments/assets/6ba7a598-38c5-4e01-9d97-08ebd7eb8258" />
 
 ## Analysis Approach
