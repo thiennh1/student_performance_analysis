@@ -14,10 +14,11 @@ This project is designed to address the following key business problems:
 5. **Proactive Intervention:** How can the school quickly identify "at-risk" students who need urgent academic support?
 
 ## Dataset
-The dataset simulates a High School Learning Management System (LMS), containing granular records of 50 students, their assessment history across academic years, and faculty information. The Data Model utilizes a **Star Schema** approach:
+The dataset simulates a High School Learning Management System (LMS), containing granular records of students, their assessment history across academic years, and faculty information. The Data Model utilizes a **Star Schema** approach:
 * **Fact Table:** `FactPerformance` (Contains thousands of assessment records, scores, and weightings).
 * **Dimension Tables:** `DimStudent`, `DimTeacher`, `DimSubject`, `DimAssessment`, `DimCalendar`.
 <img width="1699" height="480" alt="image" src="https://github.com/user-attachments/assets/0f0ecbbf-4a3e-47f5-8e65-586cf1021eca" />
+<img width="742" height="689" alt="image" src="https://github.com/user-attachments/assets/6ba7a598-38c5-4e01-9d97-08ebd7eb8258" />
 
 ## Analysis Approach
 The dashboard employs a top-down analytical funnel, drilling down from a macro to a micro level across 6 specialized tabs:
