@@ -18,8 +18,6 @@ The dataset simulates a High School Learning Management System (LMS), containing
 * **Fact Table:** `FactPerformance` (Contains thousands of assessment records, scores, and weightings).
 * **Dimension Tables:** `DimStudent`, `DimTeacher`, `DimSubject`, `DimAssessment`, `DimCalendar`.
 <img width="1699" height="480" alt="image" src="https://github.com/user-attachments/assets/0f0ecbbf-4a3e-47f5-8e65-586cf1021eca" />
-
-
 <img width="742" height="689" alt="image" src="https://github.com/user-attachments/assets/6ba7a598-38c5-4e01-9d97-08ebd7eb8258" />
 
 ## Analysis Approach
@@ -45,9 +43,17 @@ The dashboard employs a top-down analytical funnel, drilling down from a macro t
 
 ## Key Insights
 * **The "Summer Slump":** There is a distinct, recurring drop in overall performance during the Summer semester (bottoming out at 65.5). The root cause points to the heavy concentration of Summative exams combined with difficult STEM subjects (Math, Science) in a shortened timeframe.
+<img width="776" height="350" alt="image" src="https://github.com/user-attachments/assets/77f93604-b4dc-4ee2-8361-5a714999b145" />
+
 * **Senior Year (Grade 12) Burnout:** Year 4 students have the lowest pass rate in the school (66.67%). This indicates severe burnout and a lack of focus, likely driven by the overlapping pressures of the standard curriculum and intense preparation for university entrance exams.
+<img width="511" height="348" alt="image" src="https://github.com/user-attachments/assets/d5bcabb8-6f7c-453d-a94a-9d94a5dfb303" />
+
 * **Highly Standardized Grading:** The Pass/Fail rate across all 5 teachers converges perfectly at 78.66% (Passed) and 21.34% (Failed). This highlights an incredibly strict and fair grading curve implemented across the school, ruling out individual grading bias.
+<img width="1129" height="300" alt="image" src="https://github.com/user-attachments/assets/da1d599e-06e8-4840-b261-90d69c323d4f" />
+
 * **The Assessment Weight Paradox:** A scatter plot correlation reveals that assessments with the highest weight (e.g., Projects at 30%) actually yield the highest average scores (74 points). Conversely, "Quarter" exams act as the biggest bottleneck, recording an 18.28% failure rate.
+<img width="641" height="371" alt="image" src="https://github.com/user-attachments/assets/39f21a62-9ae9-42fa-a032-c51559980b6c" />
+<img width="1129" height="311" alt="image" src="https://github.com/user-attachments/assets/4a422f64-fde0-4be2-95fd-8762eddc61ca" />
 
 ## Strategic Recommendations
 1. **Summer Semester Restructuring:** Avoid scheduling high-stakes Summative assessments during the Summer. Implement mandatory tutoring sessions for STEM subjects at the beginning of the term to prevent widespread drop-offs.
