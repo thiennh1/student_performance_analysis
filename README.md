@@ -1,4 +1,4 @@
-# Student Performance Analysis Dashboard 🎓📊
+# Student Performance Analysis 🎓📊
 
 ## Project Description
 In the modern high school education system, assessing student performance must go beyond merely reading grades on a transcript. The **Student Performance Analysis** project is developed to apply a data-driven mindset to the academic sector, helping school administrators transition from simply "reporting grades" to "diagnosing and taking actionable steps."
@@ -17,6 +17,7 @@ This project is designed to address the following key business problems:
 The dataset simulates a High School Learning Management System (LMS), containing granular records of 50 students, their assessment history across academic years, and faculty information. The Data Model utilizes a **Star Schema** approach:
 * **Fact Table:** `FactPerformance` (Contains thousands of assessment records, scores, and weightings).
 * **Dimension Tables:** `DimStudent`, `DimTeacher`, `DimSubject`, `DimAssessment`, `DimCalendar`.
+<img width="1699" height="480" alt="image" src="https://github.com/user-attachments/assets/0f0ecbbf-4a3e-47f5-8e65-586cf1021eca" />
 
 ## Analysis Approach
 The dashboard employs a top-down analytical funnel, drilling down from a macro to a micro level across 6 specialized tabs:
