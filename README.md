@@ -62,8 +62,10 @@ The dashboard employs a top-down analytical funnel, drilling down from a macro t
 4. **Activate an Early Warning System (EWS):** Export the list of students in the 'D' grade band (60-69 points) directly from the Dashboard to Homeroom Teachers. Mandate 1-on-1 counseling sessions immediately before the next major exam cycle.
 
 ## Tools & Techniques Used
-* **Microsoft Power BI**
 * **Excel**
+* **SQL**
+* **Python**
+* **Power BI**
 
 ## Author
 **Nguyen Huu Thien**
