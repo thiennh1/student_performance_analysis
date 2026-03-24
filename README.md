@@ -3,7 +3,7 @@
 ## Project Description
 In the modern high school education system, assessing student performance must go beyond merely reading grades on a transcript. The **Student Performance Analysis** project was developed to apply a data-driven mindset to the academic sector. It aims to help school administrators transition from simply "reporting grades" to "diagnosing and taking actionable steps."
 
-The core objective of this dashboard is to provide the Board of Principals, Heads of Departments, and Homeroom Teachers with a comprehensive visual tool to monitor academic health, identify bottlenecks in the curriculum early, and implement timely interventions to improve the overall score and pass rate.
+The core objective of this project is to provide the Board of Principals, Heads of Departments, and Homeroom Teachers with a comprehensive visual tool to monitor academic health, identify bottlenecks in the curriculum early, and implement timely interventions to improve the overall score and pass rate.
 
 ## Business Questions
 This project is designed to address the following key business problems:
