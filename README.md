@@ -66,8 +66,6 @@ The dashboard employs a top-down analytical funnel, drilling down from a macro t
 
 ## Tools & Techniques Used
 * **Excel**
-* **SQL**
-* **Python**
 * **Power BI**
 
 ## Authors
