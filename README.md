@@ -47,6 +47,7 @@ The dashboard employs a top-down analytical funnel, drilling down from a macro t
 
 * **The Year 3 Bottleneck & Year 4 Paradox:** Year 3 (Grade 11) students record the lowest assessment pass rate (84.21%), while Year 4 (Grade 12) enjoys a near-perfect rate (99.69%). However, despite having the highest pass rate, Year 4 students are completely absent from the Top 10 Highest Performers list, suggesting they might be strategically aiming for "just passing" grades to save energy for university entrance exams.
 <img width="435" height="319" alt="image" src="https://github.com/user-attachments/assets/3553a613-28b4-4d66-825d-862fe5638f28" />
+<img width="501" height="303" alt="image" src="https://github.com/user-attachments/assets/8f9eb764-ed4c-4751-ae4d-fda3923bc714" />
 
 * **Highly Standardized Grading:** The Pass/Fail rate across all 5 teachers converges perfectly at 78.66% (Passed) and 21.34% (Failed). Furthermore, the score variance between the most and least experienced teachers is practically negligible (0.11 points), indicating a highly standardized and potentially forced grading curve.
 <img width="1129" height="300" alt="image" src="https://github.com/user-attachments/assets/da1d599e-06e8-4840-b261-90d69c323d4f" />
